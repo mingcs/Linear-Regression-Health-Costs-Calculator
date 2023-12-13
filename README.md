@@ -1,7 +1,7 @@
 # Linear-Regression-Health-Costs-Calculator
 
 
-[Free Code Camp Challenge  -Linear Regression Health Costs Calculator](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator)
+[Free Code Camp Challenge  -Linear Regression Health Costs Calculator](https://www.freecodecamp.org/learn/machine-learning-with-python/machine-learning-with-python-projects/linear-regression-health-costs-calculator):
 
 
 [You will be working on this project with Google Colaboratory.](https://colab.research.google.com/github/freeCodeCamp/boilerplate-linear-regression-health-costs-calculator/blob/master/fcc_predict_health_costs_with_regression.ipynb)
